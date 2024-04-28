@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Whatsapp-AI-chatbot-Auto-Reply", "Whatsapp-AI-chatbot-Auto-Reply\Whatsapp-AI-chatbot-Auto-Reply.pyproj", "{40D8CD4E-CB1A-4EE6-A15B-21E6C71DF750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40D8CD4E-CB1A-4EE6-A15B-21E6C71DF750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D8CD4E-CB1A-4EE6-A15B-21E6C71DF750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18E55624-E48A-4C3D-B6E8-4B0659DE79FF}
+	EndGlobalSection
+EndGlobal
