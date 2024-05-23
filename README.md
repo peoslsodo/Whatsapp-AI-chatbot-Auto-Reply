@@ -1,6 +1,14 @@
 # Whatsapp AI chatbot Auto Reply-Full Reseller
-## https://codecanyon.net/item/whatsapp-chatgpt-ai-auto-reply-profull-reseller/46964349
-### http://wa.me/13156299582
+##  ❤️Free Download: https://bit.ly/waaichat
+
+##  ❤️All Product List:🌐 https://bit.ly/alloninesocial
+### ❤️Telegram: 👉 https://t.me/IonicSupport   
+### ❤️Whatsapp  👉 http://wa.me/447999197856
+### ❤️Telegram Support Group:👉 https://t.me/+UVmjOA7wu3szYzM1
+
+### ❤️Youtube Channel 
+#### 📽 https://www.youtube.com/channel/UCz2Ti8uKwv0Fh5j5IgUTPww
+#### 📽 https://www.youtube.com/channel/UC6NZcaPmat9ooKW1yLxdnjQ
 
 Whatsapp AI chatbot Auto Reply Pro +Unlimited License Key Generator App(Full Reseller)
 Whatsapp AI chatbot Auto Reply Pro is an automated chatbot for businesses designed to answer customer queries and provide helpful support. It works in your current whatsapp live chat, allowing them tos focus on more complex tasks such as sales, marketing, and customer service. it immediately provides quick but accurate answers to customers’ most frequently asked questions.
